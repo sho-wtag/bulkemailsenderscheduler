@@ -18,7 +18,7 @@ import org.springframework.jdbc.core.namedparam.NamedParameterJdbcTemplate;
 
 /**
  *
- * @author mdshahadat.sarker
+ * @author m.shahadat
  */
 @Configuration
 public class DbConfig {
